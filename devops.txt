@@ -1,2 +1,4 @@
 Learning git for Devops
 Git is essential for DevOps
+Git tracks changes
+Git helps with collaboration
